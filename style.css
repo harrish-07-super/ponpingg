@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 27px;
+    margin: 0;
+
+}
+
+.ins{
+    float: right;
+    font-size: 23px;
+}
+
+#start,#status{
+    font-size: 25px;
+    color: rgb(0, 255, 34);
+}
+
+h4{
+    background-color: rgb(255, 68, 0);
+    line-height: 2;
+    width: 100%;
+    text-align: center;
+}
+
+footer{
+    margin-bottom: 0%;
+    width: 100px;
+color: chartreuse;
+background-color: rgb(255, 0, 0);
+}
+
+canvas{
+    border:2px solid rgb(30, 255, 0);
+    border-radius: 20px;
+    margin-top: 400px;
+    box-shadow:5px 5px 5px rgb(128, 119, 0);
+}
